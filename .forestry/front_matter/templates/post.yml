@@ -41,4 +41,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/folder2/folder2-post1.md
 - content/post/post2.md
